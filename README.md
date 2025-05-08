@@ -6,6 +6,6 @@ https://physionet.org/content/ptb-xl/1.0.3/ and
 https://www.kaggle.com/datasets/bjoernjostein/georgia-12lead-ecg-challenge-database?resource=download
 
 My attempts for the preprocess of the dataset are stored in preprocess.ipynb, but does not work.
-utils are downloaded from the original repo from the paper.
+utils.py was downloaded from the original repo from the paper.
 
 My resnet18 model can be trained and evaluated directly by running resnet18.ipynb.
