@@ -5,3 +5,6 @@ The dataset used for the paper can be downloaded under these links:
 https://physionet.org/content/ptb-xl/1.0.3/ and
 https://www.kaggle.com/datasets/bjoernjostein/georgia-12lead-ecg-challenge-database?resource=download
 
+My attempts for the preprocess of the dataset are stored in preprocess.ipynb, but does not work.
+
+My resnet18 model can be trained and evaluated directly by running resnet18.ipynb.
